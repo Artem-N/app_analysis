@@ -16,7 +16,6 @@ lib64/
 parts/
 sdist/
 var/
-app_analysis/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -24,6 +23,7 @@ app_analysis/
 # Virtual Environment
 venv/
 ENV/
+app_analysis/
 
 # IDE
 .idea/
