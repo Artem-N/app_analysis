@@ -1,1 +1,13 @@
-app-store-web-scraper 
+app-store-web-scraper
+requests 
+plotly
+numpy
+pandas
+nltk
+scikit-learn
+transformers
+sentence-transformers
+keybert
+torch
+fastapi
+uvicorn
