@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ratings Distribution</title>
+  <script src="https://cdn.plot.ly/plotly-2.24.2.min.js"></script>
+  <style>
+    body{font-family:Arial, sans-serif;margin:20px}
+    #chart{width:100%;max-width:1200px;height:1000px}
+  </style>
+</head>
+<body>
+  <h2 id="title">Loading…</h2>
+  <div id="chart"></div>
+  <script>
+  (function(){
+    const params = new URLSearchParams(window.location.search);
+    const appId = params.get('app_id');
+    if(!appId){ document.body.innerHTML = '<h3>No app_id provided</h3>'; return; }
+
+    fetch(`/metrics_summary/${appId}`).then(async res=>{
+      if(res.status===404){
+        // потрібні метрики ще не згенеровані – викличемо бекенд для генерації
+        await fetch(`/visualization/${appId}`, {method:'POST'});
+        const second = await fetch(`/metrics_summary/${appId}`);
+        if(!second.ok) throw new Error(await second.text());
+        return second.json();
+      }
+      if(!res.ok) throw new Error(await res.text());
+      return res.json();
+    }).then(data=>{
+      const ratings = Object.keys(data.rating_counts).sort((a,b)=>+a-+b);
+      const counts = ratings.map(r=>data.rating_counts[r]);
+      const total = data.total_reviews || 0;
+      const percentages = counts.map(c=> total? (Math.round(10000*c/total)/100):0 );
+      const labels = ratings.map(r=>`${r}-star`);
+
+      Plotly.newPlot('chart', [{
+        x: labels,
+        y: counts,
+        type:'bar',
+        text: percentages.map(p=>p+'%'),
+        textposition:'auto'
+      }], {
+        title:`Ratings Distribution (Avg ${data.average_rating.toFixed(2)})`,
+        yaxis:{title:'Number of Reviews'}
+      });
+
+      document.getElementById('title').innerText = `App ${appId} Ratings`;
+    }).catch(err=>{
+       document.body.innerHTML = `<h3>Error: ${err.message}</h3>`;
+    });
+  })();
+  </script>
+</body>
+</html> 
