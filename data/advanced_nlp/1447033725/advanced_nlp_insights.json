@@ -1,0 +1,222 @@
+{
+  "sentiment_metrics": {
+    "total_reviews": 100,
+    "counts": {
+      "positive": 50,
+      "negative": 34,
+      "neutral": 16
+    },
+    "percentages": {
+      "positive": 50.0,
+      "negative": 34.0,
+      "neutral": 16.0
+    },
+    "average_score": 0.7683645895123482
+  },
+  "negative_keywords": [
+    {
+      "keyword": "videos subscriptions",
+      "score": 0.5837
+    },
+    {
+      "keyword": "subscriptions nebula",
+      "score": 0.5403
+    },
+    {
+      "keyword": "new subscriptions",
+      "score": 0.5397
+    },
+    {
+      "keyword": "stuff subscriptions",
+      "score": 0.5147
+    },
+    {
+      "keyword": "subscription app",
+      "score": 0.5071
+    },
+    {
+      "keyword": "content youtube",
+      "score": 0.5058
+    },
+    {
+      "keyword": "subscription making",
+      "score": 0.5005
+    },
+    {
+      "keyword": "youtube premium",
+      "score": 0.5003
+    },
+    {
+      "keyword": "subscriptions",
+      "score": 0.4973
+    },
+    {
+      "keyword": "make subscription",
+      "score": 0.4784
+    },
+    {
+      "keyword": "subscription premium",
+      "score": 0.4754
+    },
+    {
+      "keyword": "platform subscribing",
+      "score": 0.4707
+    },
+    {
+      "keyword": "costs streaming",
+      "score": 0.4701
+    },
+    {
+      "keyword": "content platform",
+      "score": 0.4681
+    },
+    {
+      "keyword": "youtube offers",
+      "score": 0.4668
+    },
+    {
+      "keyword": "subscription",
+      "score": 0.4656
+    },
+    {
+      "keyword": "hate subscriptions",
+      "score": 0.464
+    },
+    {
+      "keyword": "subscription just",
+      "score": 0.4622
+    },
+    {
+      "keyword": "youtube app",
+      "score": 0.4617
+    },
+    {
+      "keyword": "subscriptions place",
+      "score": 0.4605
+    },
+    {
+      "keyword": "subscriptions oh",
+      "score": 0.4591
+    },
+    {
+      "keyword": "stick youtube",
+      "score": 0.4588
+    },
+    {
+      "keyword": "channels creators",
+      "score": 0.4579
+    },
+    {
+      "keyword": "paying stream",
+      "score": 0.457
+    },
+    {
+      "keyword": "compared youtube",
+      "score": 0.4474
+    },
+    {
+      "keyword": "stream service",
+      "score": 0.4459
+    },
+    {
+      "keyword": "content subscribing",
+      "score": 0.4448
+    },
+    {
+      "keyword": "media apps",
+      "score": 0.4413
+    },
+    {
+      "keyword": "youtube honestly",
+      "score": 0.4412
+    },
+    {
+      "keyword": "youtube",
+      "score": 0.4396
+    },
+    {
+      "keyword": "streaming bad",
+      "score": 0.4367
+    },
+    {
+      "keyword": "youtube doesn",
+      "score": 0.4366
+    },
+    {
+      "keyword": "videos youtube",
+      "score": 0.4356
+    },
+    {
+      "keyword": "videos channel",
+      "score": 0.4321
+    },
+    {
+      "keyword": "video feed",
+      "score": 0.4277
+    },
+    {
+      "keyword": "content os",
+      "score": 0.4251
+    },
+    {
+      "keyword": "streaming",
+      "score": 0.4238
+    },
+    {
+      "keyword": "cost youtube",
+      "score": 0.4214
+    },
+    {
+      "keyword": "ads youtube",
+      "score": 0.4206
+    },
+    {
+      "keyword": "premium videos",
+      "score": 0.4198
+    },
+    {
+      "keyword": "youtube implementation",
+      "score": 0.4184
+    },
+    {
+      "keyword": "subscribing isn",
+      "score": 0.4123
+    },
+    {
+      "keyword": "support creators",
+      "score": 0.4122
+    },
+    {
+      "keyword": "youtube videos",
+      "score": 0.4121
+    },
+    {
+      "keyword": "tv app",
+      "score": 0.4119
+    },
+    {
+      "keyword": "content creators",
+      "score": 0.4116
+    },
+    {
+      "keyword": "apps",
+      "score": 0.4104
+    },
+    {
+      "keyword": "subscribing",
+      "score": 0.4084
+    },
+    {
+      "keyword": "subscription earth",
+      "score": 0.4075
+    },
+    {
+      "keyword": "videos app",
+      "score": 0.4054
+    }
+  ],
+  "insights": [
+    "Pricing concerns detected. Consider revisiting subscription plans or offering trials.",
+    "Users compare the app with YouTube/other streaming platforms and question the subscription's value. Clearly communicate unique offerings, consider content diversification, and evaluate pricing tiers."
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "processed_at": "2025-06-26T15:45:35.222027",
+  "total_entries": 100,
+  "entries": [
+    {
+      "id": 12804669366,
+      "country": "us",
+      "rating": 4,
+      "title": "What",
+      "content": "A few days ago Nebula took up 400mb of space. Now it took up only 50.\n\nHOW",
+      "cleaned_title": "what",
+      "cleaned_content": "few days ago nebula took up 400mb space now took up only 50 how"
+    },
+    {
+      "id": 12800388579,
+      "country": "us",
+      "rating": 1,
+      "title": "Limited content, low streaming quality",
+      "content": "There is not much exclusive content, also the early content isn’t that early, many creators are leaving the platform such as kings and generals and hoog.\nYou can’t browse the content before subscribing and there isn’t a free trial.\nJust stick with youtube.\nDoesn’t worth a penny.",
+      "cleaned_title": "limited content low streaming quality",
+      "cleaned_content": "there not much exclusive content also early content isn t early many creators leaving platform such kings generals hoog can t browse content before subscribing there isn t free trial just stick youtube doesn t worth penny"
+    },
+    {
+      "id": 12781187593,
+      "country": "us",
+      "rating": 1,
+      "title": "Bad Business Practices",
+      "content": "Nebula uses predatory practices to lure you in. Even when only paying a few dollars to get a reading and bypassing the plan options, they still charge you the monthly fee after 5 day trial. Finding how to cancel subscription in app is purposely confusing. If you reach out to support with a problem they ignore you. And, the info/ readings I did try are incredibly basic. SCAM COMPANY",
+      "cleaned_title": "bad business practices",
+      "cleaned_content": "nebula uses predatory practices lure even when only paying few dollars get reading bypassing plan options still charge monthly fee after 5 day trial finding how cancel subscription app purposely confusing reach out support problem ignore info readings did try incredibly basic scam company"
+    },
+    {
+      "id": 12771010715,
+      "country": "us",
+      "rating": 2,
+      "title": "Not right for me.",
+      "content": "I followed a few of my favorite content creators from Facebook over to nebula, I felt as though their content wasn’t much different than what they were presenting on YouTube or Facebook. I felt the community within nebula was not as expansive as YouTube obviously with good reason, but the reason I’m giving it two stars are the issues with compatibility I experienced with iPhone to the point where new videos would break the app and you could not watch older videos, and you had to restart the app. the latest news report on the attack on Iran causes my app to freeze. I think this is a cool concept and in the future would replace YouTube due to the level of content it does present. but I’m a stickler for ease of use.",
+      "cleaned_title": "not right",
+      "cleaned_content": "followed few favorite content creators facebook over nebula felt though content wasn t much different than what presenting youtube facebook felt community within nebula not expansive youtube obviously good reason reason m giving two stars issues compatibility experienced iphone point where new videos would break app could not watch older videos had restart app latest news report attack iran causes app freeze think cool concept future would replace youtube due level content does present m stickler ease use"
+    },
+    {
+      "id": 12767620022,
+      "country": "us",
+      "rating": 2,
+      "title": "Great videos terrible app",
+      "content": "The app just doesn’t work well",
+      "cleaned_title": "great videos terrible app",
+      "cleaned_content": "app just doesn t work well"
+    },
+    {
+      "id": 12738788531,
+      "country": "us",
+      "rating": 1,
+      "title": "Couldn’t Sign In with Apple",
+      "content": "Not interested in managing more accounts and passwords. Add Sign In with Apple and I’ll be glad to sign up and subscribe.",
+      "cleaned_title": "couldn t sign apple",
+      "cleaned_content": "not interested managing more accounts passwords add sign apple ll glad sign up subscribe"
+    },
+    {
+      "id": 12736088529,
+      "country": "us",
+      "rating": 5,
+      "title": "From the Start",
+      "content": "I’ve been with Nebula from the start of their existence. I’ve seen them grow and flourish. I watch it more than YouTube",
+      "cleaned_title": "start",
+      "cleaned_content": "ve been nebula start existence ve seen them grow flourish watch more than youtube"
+    },
+    {
+      "id": 12693378896,
+      "country": "us",
+      "rating": 5,
+      "title": "Important and Cool",
+      "content": "Came because I was sick of YouTube and wanted the creators I like to have a better space to work in. Nebula gets talked about a bit and now I’m on it I like it better too. \nI’m actually writing this review because I have a couple thoughts as a user. \nOne is that for a recovering YouTube user, nebula is actually somewhat difficult to get your foothold into when you first get it. Some more suggestion types or broader category tags on searches could help. \nSecond, what about some articles? Plenty of creators probably have things they want to write, and this crowd of video viewers is more likely to read stuff.",
+      "cleaned_title": "important cool",
+      "cleaned_content": "came because sick youtube wanted creators like have better space work nebula gets talked about bit now m like better too m actually writing review because have couple thoughts user one recovering youtube user nebula actually somewhat difficult get foothold into when first get some more suggestion types broader category tags searches could help second what about some articles plenty creators probably have things want write crowd video viewers more likely read stuff"
+    },
+    {
+      "id": 12668779956,
+      "country": "us",
+      "rating": 5,
+      "title": "Goated streaming service",
+      "content": "Better then TikTok YouTube Netflix all of them",
+      "cleaned_title": "goated streaming service",
+      "cleaned_content": "better then tiktok youtube netflix all them"
+    },
+    {
+      "id": 12664682981,
+      "country": "us",
+      "rating": 2,
+      "title": "Podcasts no longer play in background when phone screen is off or app is in background.",
+      "content": "Please fix. Thanks!",
+      "cleaned_title": "podcasts no longer play background when phone screen off app background",
+      "cleaned_content": "please fix thanks"
+    },
+    {
+      "id": 12657430864,
+      "country": "us",
+      "rating": 5,
+      "title": "Great product but it needs a more fluid player.",
+      "content": "Videos often just stop playing entirely when you simply hit the 10 second rewind.",
+      "cleaned_title": "great product needs more fluid player",
+      "cleaned_content": "videos often just stop playing entirely when simply hit 10 second rewind"
+    },
+    {
+      "id": 12653022858,
+      "country": "us",
+      "rating": 3,
+      "title": "Love the service, hate the apps",
+      "content": "I don’t know why it’s so difficult in every interface to easily see the channels/creators I’ve subscribed to. Yes, there is a way, but it’s inconsistent and not prominent. iPad? Oh, it’s not on the Home Screen, it’s on a slide-out panel that doesn’t slide back in. Why isn’t new from you subscriptions the first row of thumbnails? Also, why do you make me scroll horizontally rather than wrapping the tiles?",
+      "cleaned_title": "love service hate apps",
+      "cleaned_content": "don t know why s difficult every interface easily see channels creators ve subscribed yes there way s inconsistent not prominent ipad oh s not home screen s slide out panel doesn t slide back why isn t new subscriptions first row thumbnails also why do make scroll horizontally rather than wrapping tiles"
+    },
+    {
+      "id": 12627525308,
+      "country": "us",
+      "rating": 1,
+      "title": "Great content terrible app",
+      "content": "While the content made by users of the app is great and I truly enjoy it the overall performance of the app is very disappointing. I would expect if you’re paying for a stream service it will at least let you play the videos but it constantly crashes, lags, the quality drops and it doesn’t let you fast forward on videos properly regardless of the wifi connection. I will continue to use it but if the problems persist I would cancel it and just wait until it improves.",
+      "cleaned_title": "great content terrible app",
+      "cleaned_content": "while content made users app great truly enjoy overall performance app very disappointing would expect re paying stream service will least let play videos constantly crashes lags quality drops doesn t let fast forward videos properly regardless wifi connection will continue use problems persist would cancel just wait until improves"
+    },
+    {
+      "id": 12599215259,
+      "country": "us",
+      "rating": 5,
+      "title": "A wonderful app",
+      "content": "A video player that allows following and supporting some wonderful creators.  Excellent that there isn’t any embedded social media parts demanding engagement so I can consider and ponder what I’m watching in my own head then discuss with people I know instead of internet strangers.",
+      "cleaned_title": "wonderful app",
+      "cleaned_content": "video player allows following supporting some wonderful creators excellent there isn t any embedded social media parts demanding engagement can consider ponder what m watching own head then discuss people know instead internet strangers"
+    },
+    {
+      "id": 12547420600,
+      "country": "us",
+      "rating": 5,
+      "title": "Amazing content! (user interface needs work)",
+      "content": "I just wanna start by saying I LOVE Nebula! There are so many reasons that i appreciate this platform but thats not why I’m writing a review. I wanted to leave this review to give some feedback and suggestions regarding the user experience of navigating the mobile app.\n\nI think the user interface is a seriously discouraging barrier  and for me, it is the main reason that I still use youtube as my primary source for video essay/info-tainment streaming.\n\nThe apps feels like it’s prioritizing promoting new creator content (which isn’t necessarily bad), while simultaneously making it less convenient for me to access the channels that i already follow and am specifically coming back to Nebula to watch. \n\nI think it would be a good idea to implement a primary page that functions similarly to the Youtube apps “subscriptions” page where you can scroll through a mixed feed of content produced by the creators that I’m already following and know I like. \n\nHaving both a “Home” and “Explore” page just seems redundant to me. They both primarily function to promote new content, but while the Home page is incredibly legible and engaging from a design point of view, the Explore page is super bland. \n\nAlso when i turn off my phone screen so i can just listen to the videos, they tend to randomly pause. Seems like a bug",
+      "cleaned_title": "amazing content user interface needs work",
+      "cleaned_content": "just wanna start saying love nebula there many reasons appreciate platform thats not why m writing review wanted leave review give some feedback suggestions regarding user experience navigating mobile app think user interface seriously discouraging barrier main reason still use youtube primary source video essay info tainment streaming apps feels like s prioritizing promoting new creator content which isn t necessarily bad while simultaneously making less convenient access channels already follow am specifically coming back nebula watch think would good idea implement primary page functions similarly youtube apps subscriptions page where can scroll through mixed feed content produced creators m already following know like having both home explore page just seems redundant both primarily function promote new content while home page incredibly legible engaging design point view explore page super bland also when turn off phone screen can just listen videos tend randomly pause seems like bug"
+    },
+    {
+      "id": 12537989469,
+      "country": "us",
+      "rating": 5,
+      "title": "Nebula",
+      "content": "It is very good thanks to jet lag and man carrying thing",
+      "cleaned_title": "nebula",
+      "cleaned_content": "very good thanks jet lag man carrying thing"
+    },
+    {
+      "id": 12509422765,
+      "country": "us",
+      "rating": 5,
+      "title": "Feature requests",
+      "content": "Nebula is quite nice, but there’s some small things I wish it had. I have no idea how hard these features would be to implement from a technical perspective. 1. More than 2x speed. YouTube doesn’t have this, but i often use an extension. 2. Video chapters with segmented timeline.",
+      "cleaned_title": "feature requests",
+      "cleaned_content": "nebula quite nice there s some small things wish had have no idea how hard these features would implement technical perspective 1 more than 2x speed youtube doesn t have often use extension 2 video chapters segmented timeline"
+    },
+    {
+      "id": 12492746940,
+      "country": "us",
+      "rating": 2,
+      "title": "Horrible App;Decent Content;Luxury",
+      "content": "This app is a luxury I pay for simply because I can afford to give more financial support to some of my favorite creators without having to have several individual Patreon, etc. subscriptions.\n\nThe UI is sluggish and the playback options are worse than minimal (non-existent). I should at minimum be able to manually select video quality and adjust subtitles.\n\nThis is not an app able or seemingly even attempting to replace YouTube. Many of the creators on Nebula don’t make Nebula exclusive content, the same videos are simply ad-free with a a one-second Nebula splash screen somewhere in the video. Nebula originals are only worth paying for if you’re looking to support a specific set of content creators you already follow closely.\n\nIf you’re able to afford YouTube premium and aren’t interested in the niche and quickly exhausted Originals, do that instead. If you have some extra  money lying around and don’t mind paying to give your favorite creators a little more money per view, subscribe for a month and see.",
+      "cleaned_title": "horrible app decent content luxury",
+      "cleaned_content": "app luxury pay simply because can afford give more financial support some favorite creators without having have several individual patreon etc subscriptions ui sluggish playback options worse than minimal non existent should minimum able manually select video quality adjust subtitles not app able seemingly even attempting replace youtube many creators nebula don t make nebula exclusive content same videos simply ad free one second nebula splash screen somewhere video nebula originals only worth paying re looking support specific set content creators already follow closely re able afford youtube premium aren t interested niche quickly exhausted originals do instead have some extra money lying around don t mind paying give favorite creators little more money per view subscribe month see"
+    },
+    {
+      "id": 12475708278,
+      "country": "us",
+      "rating": 3,
+      "title": "Inconvenient",
+      "content": "I absolutely hate how my subscriptions (or whatever Nebula has renamed it to) is so hard to access. Just face it, there’s not as much content on this platform. No one is subscribing to Nebula unless they are trying to support the creators they would otherwise watch on YouTube. So stop pushing so hard the unrelated content I don’t care about on the front page. Beneath the giant hero image that displays the same content every time I open it, there’s a scrolling section of the latest videos uploaded to the entire platform. Why? As I said before, none of this content is relevant to me, and it also shows how little content there really is here, as it makes it clear there’s just not many uploads happening on any given day.\n\nThis is how I use Nebula: I watch YouTube. When I see an upload by someone who I know posts to Nebula, I’ll go there to watch it instead.  Oh wait, the front page is only irrelevant stuff. Where is subscriptions…oh right it’s called library. Go to library. Oh, I can only see 1.5 thumbnails in this view, with links to random other unused features. How to see all of the videos of my subscriptions in one place… must be “Followed Channels”. Oops, no, that’s just a static aphabetical list of the channels, with no way to sort by activity. Go back to the previous screen. Hmmm where is the right button…oh right that tiny low contrast “view more” that is barely noticable. NOW I can see the content I’m actually subscribing for.\n\nI probably would have just saved time by tapping next on the ads on the YouTube app.",
+      "cleaned_title": "inconvenient",
+      "cleaned_content": "absolutely hate how subscriptions whatever nebula has renamed hard access just face there s not much content platform no one subscribing nebula unless trying support creators would otherwise watch youtube stop pushing hard unrelated content don t care about front page beneath giant hero image displays same content every time open there s scrolling section latest videos uploaded entire platform why said before none content relevant also shows how little content there really here makes clear there s just not many uploads happening any given day how use nebula watch youtube when see upload someone who know posts nebula ll go there watch instead oh wait front page only irrelevant stuff where subscriptions oh right s called library go library oh can only see 1 5 thumbnails view links random other unused features how see all videos subscriptions one place must followed channels oops no s just static aphabetical list channels no way sort activity go back previous screen hmmm where right button oh right tiny low contrast view more barely noticable now can see content m actually subscribing probably would have just saved time tapping next ads youtube app"
+    },
+    {
+      "id": 12447693504,
+      "country": "us",
+      "rating": 3,
+      "title": "Good Content; Poor Navigation",
+      "content": "Really good content overall and a great way to support creators. The only reason for a middle ground score is that I find navigation  to get back to creators and content I am already engaging with unintuitive or too reply buried. The app does a fair job of new content suggestions.",
+      "cleaned_title": "good content poor navigation",
+      "cleaned_content": "really good content overall great way support creators only reason middle ground score find navigation get back creators content am already engaging unintuitive too reply buried app does fair job new content suggestions"
+    },
+    {
+      "id": 12410570694,
+      "country": "us",
+      "rating": 5,
+      "title": "Good",
+      "content": "Good",
+      "cleaned_title": "good",
+      "cleaned_content": "good"
+    },
+    {
+      "id": 12389836486,
+      "country": "us",
+      "rating": 5,
+      "title": "Get it, you won’t regret it",
+      "content": "If you follow at least two people on here, stop thinking about it and just subscribe. You won’t regret it. Make sure to use a creator code for a discount. Customer service is great and there are no gimmicks. One of my favorite services that I own.",
+      "cleaned_title": "get won t regret",
+      "cleaned_content": "follow least two people here stop thinking about just subscribe won t regret make sure use creator code discount customer service great there no gimmicks one favorite services own"
+    },
+    {
+      "id": 12361407523,
+      "country": "us",
+      "rating": 5,
+      "title": "My favorite streaming service",
+      "content": "I love the community that Nebula fosters. The creators on Nebula are amazing. The streaming service application works better than AAA companies. I tell everyone how awesome Nebula is.",
+      "cleaned_title": "favorite streaming service",
+      "cleaned_content": "love community nebula fosters creators nebula amazing streaming service application works better than aaa companies tell everyone how awesome nebula"
+    },
+    {
+      "id": 12350103684,
+      "country": "us",
+      "rating": 4,
+      "title": "Would give 5-stars, but no comment section",
+      "content": "All in the title. The app is the primary way in which I consume Nebula content, and I want to be able to discuss with the community/respond to my favorite creators!",
+      "cleaned_title": "would give 5 stars no comment section",
+      "cleaned_content": "all title app primary way which consume nebula content want able discuss community respond favorite creators"
+    },
+    {
+      "id": 12326988654,
+      "country": "us",
+      "rating": 5,
+      "title": "Nebula is essential",
+      "content": "The Nebula video service is everything YouTube & every other hosting service could have been had they respected creators & viewers. \nNebula is a subscription based video hosting service built from scratch by a group of YouTube creators who knew what YouTube's weaknesses were and how to make a better home for their productions. \n\nNo Ads! High resolution, fast, and incredibly diverse creators - try Nebula & you will be hooked!",
+      "cleaned_title": "nebula essential",
+      "cleaned_content": "nebula video service everything youtube every other hosting service could have been had respected creators viewers nebula subscription based video hosting service built scratch group youtube creators who knew what youtube s weaknesses how make better home productions no ads high resolution fast incredibly diverse creators try nebula will hooked"
+    },
+    {
+      "id": 12326966321,
+      "country": "us",
+      "rating": 5,
+      "title": "Excellent content, no middleman",
+      "content": "I am happy to support the creators I enjoy like Tale Foundry, PhilosophyTube, and Jacob Geller more directly, and especially on a platform where they can produce content that advertisers would never allow. \n\nPoliticalized topics that get censored on other platforms.Long-form rambling that performs bad on YouTube’s algorithm but is perfect for my long working hours. Even something as simple as being able to use a copyrighted song that is crucial to the thematic core of a piece of art (such as is examined in Geller’s video on Immortality, “The Single Best Gaming Moment of 2022”) makes Nebula worth the very, very affordable price. \n\nCheck it out, find a few creators you love, then know you are directly supporting more of their work.",
+      "cleaned_title": "excellent content no middleman",
+      "cleaned_content": "am happy support creators enjoy like tale foundry philosophytube jacob geller more directly especially platform where can produce content advertisers would never allow politicalized topics get censored other platforms long form rambling performs bad youtube s algorithm perfect long working hours even something simple being able use copyrighted song crucial thematic core piece art such examined geller s video immortality single best gaming moment 2022 makes nebula worth very very affordable price check out find few creators love then know directly supporting more work"
+    },
+    {
+      "id": 12311721442,
+      "country": "us",
+      "rating": 2,
+      "title": "Support Issues from the Start - Not fully functional with iOS",
+      "content": "I downloaded and subscribed, but my phone will not AirPlay Nebula to my Apple TV. I emailed support. Got no response for a few days, then sent a follow up email and got two responses this morning with my emails quoted and a single sentence that says my issue has been merged with another ticket number but no further explanation. Not sure what I’m paying for if I can’t cast to my TV. Really disappointed.",
+      "cleaned_title": "support issues start not fully functional ios",
+      "cleaned_content": "downloaded subscribed phone will not airplay nebula apple tv emailed support got no response few days then sent follow up email got two responses morning emails quoted single sentence says issue has been merged another ticket number no further explanation not sure what m paying can t cast tv really disappointed"
+    },
+    {
+      "id": 12300511495,
+      "country": "us",
+      "rating": 5,
+      "title": "Sort/filter",
+      "content": "Any possibility y’all could add a sort/filter option for played/unplayed videos on the creator video lists?\n\nLove the content, keep it coming.",
+      "cleaned_title": "sort filter",
+      "cleaned_content": "any possibility y all could add sort filter option played unplayed videos creator video lists love content keep coming"
+    },
+    {
+      "id": 12269768198,
+      "country": "us",
+      "rating": 4,
+      "title": "Videos struggle to play",
+      "content": "Very nice app and good content, I am happy with my relatively cheap subscription. The videos, however, seem to struggle to play pretty often. Even when I have a really good internet connection they seem to freeze for long periods of time. This issue seems to have gotten a lot worse recently and so hopefully it can be fixed soon.",
+      "cleaned_title": "videos struggle play",
+      "cleaned_content": "very nice app good content am happy relatively cheap subscription videos however seem struggle play pretty often even when have really good internet connection seem freeze long periods time issue seems have gotten lot worse recently hopefully can fixed soon"
+    },
+    {
+      "id": 12263855716,
+      "country": "us",
+      "rating": 3,
+      "title": "Too political",
+      "content": "Recently started hosting a lot of far left shows with no counterbalance",
+      "cleaned_title": "too political",
+      "cleaned_content": "recently started hosting lot far left shows no counterbalance"
+    },
+    {
+      "id": 12262384646,
+      "country": "us",
+      "rating": 5,
+      "title": "I love nebula!",
+      "content": "It lets the creators I enjoy make the content they want to!\nThe creators get to use all the words they need to but are sometimes barred from using.\nBack and forward 10 seconds was added too and it’s great! \nHopefully more creators who are currently stuck on other platforms will move here :D\nWorth the price and I definitely recommend Nebula especially if you actually want to support creators works and creativity.",
+      "cleaned_title": "love nebula",
+      "cleaned_content": "lets creators enjoy make content want creators get use all words need sometimes barred using back forward 10 seconds added too s great hopefully more creators who currently stuck other platforms will move here d worth price definitely recommend nebula especially actually want support creators works creativity"
+    },
+    {
+      "id": 12243731378,
+      "country": "us",
+      "rating": 5,
+      "title": "Great Company and Morals",
+      "content": "Very Helpful and Moral Company, it was a great service used it for a year forgot about the subscription and when it renewed they helped me refund vastly with no difficulty. Highly recommend both the service and the Company.",
+      "cleaned_title": "great company morals",
+      "cleaned_content": "very helpful moral company great service used year forgot about subscription when renewed helped refund vastly no difficulty highly recommend both service company"
+    },
+    {
+      "id": 12218854256,
+      "country": "us",
+      "rating": 5,
+      "title": "Based",
+      "content": "On factual evidence",
+      "cleaned_title": "based",
+      "cleaned_content": "factual evidence"
+    },
+    {
+      "id": 12189368481,
+      "country": "us",
+      "rating": 1,
+      "title": "Not worth 7 bucks a month for the content",
+      "content": "Nebula has a pitifully small number of  channels. 300 channels and 175 creators, many, perhaps most, who post the same content on YouTube. It's sad.",
+      "cleaned_title": "not worth 7 bucks month content",
+      "cleaned_content": "nebula has pitifully small number channels 300 channels 175 creators many perhaps most who post same content youtube s sad"
+    },
+    {
+      "id": 12135671714,
+      "country": "us",
+      "rating": 5,
+      "title": "Jet Lag but more",
+      "content": "New subscriber, but I love the ad free, early Jet Lag episodes. Big fan of the Layover podcast as well. All of the other ad free content has been awesome too.",
+      "cleaned_title": "jet lag more",
+      "cleaned_content": "new subscriber love ad free early jet lag episodes big fan layover podcast well all other ad free content has been awesome too"
+    },
+    {
+      "id": 12130118038,
+      "country": "us",
+      "rating": 1,
+      "title": "YouTube is preferable",
+      "content": "Messy app, poor playback, unable to search for specific videos by creators I am looking for, waste of seven bucks",
+      "cleaned_title": "youtube preferable",
+      "cleaned_content": "messy app poor playback unable search specific videos creators am looking waste seven bucks"
+    },
+    {
+      "id": 12122267392,
+      "country": "us",
+      "rating": 5,
+      "title": "Works great",
+      "content": "Just needs better search and video bookmarking organization",
+      "cleaned_title": "works great",
+      "cleaned_content": "just needs better search video bookmarking organization"
+    },
+    {
+      "id": 12108570646,
+      "country": "us",
+      "rating": 5,
+      "title": "Worth it even after just 3 days",
+      "content": "Finally followed a link from a favorite binge watch channel and got a year for $36. Honestly will be getting the lifetime subscription when this one runs out.\n\nIt’s great to get uncensored and extra content- I also weirdly love non- algorithm bait titles. It gives me a much better idea of what I’m about to watch.",
+      "cleaned_title": "worth even after just 3 days",
+      "cleaned_content": "finally followed link favorite binge watch channel got year 36 honestly will getting lifetime subscription when one runs out s great get uncensored extra content also weirdly love non algorithm bait titles gives much better idea what m about watch"
+    },
+    {
+      "id": 12098851736,
+      "country": "us",
+      "rating": 1,
+      "title": "Review",
+      "content": "Garbage content",
+      "cleaned_title": "review",
+      "cleaned_content": "garbage content"
+    },
+    {
+      "id": 12081463471,
+      "country": "us",
+      "rating": 3,
+      "title": "Love the creators, playback not so much.",
+      "content": "Try scrubbing a video forward or backward more than 5 minutes and it completely breaks the playback. I have to close out of the app and re-open it to get it working again.",
+      "cleaned_title": "love creators playback not much",
+      "cleaned_content": "try scrubbing video forward backward more than 5 minutes completely breaks playback have close out app re open get working again"
+    },
+    {
+      "id": 12072164720,
+      "country": "us",
+      "rating": 5,
+      "title": "100% worth it",
+      "content": "High quality indy films game shows and journalists. Very cool",
+      "cleaned_title": "100 worth",
+      "cleaned_content": "high quality indy films game shows journalists very cool"
+    },
+    {
+      "id": 12065436318,
+      "country": "us",
+      "rating": 5,
+      "title": "Trouble moving around videos",
+      "content": "When I fast forward or rewind through videos the app often simply stops and stops working. Watching the video straight through works but trying to fast forward or rewind to where i left off on a video or to a certain spot to rewatch is difficult.",
+      "cleaned_title": "trouble moving around videos",
+      "cleaned_content": "when fast forward rewind through videos app often simply stops stops working watching video straight through works trying fast forward rewind where left off video certain spot rewatch difficult"
+    },
+    {
+      "id": 12054142441,
+      "country": "us",
+      "rating": 1,
+      "title": "App isn’t great",
+      "content": "I appreciate what nebula is trying to do, but the app still has huge problems even though it’s been years since release. Technical Issues: -Audio breaks randomly and you have to force close and reopen the app. -Picture in Picture breaks, and you have to force close. -The app accumulates large amounts of data over time for some unknown reason, and you have to either delete and reinstall or use their reset option in the iphone settings for nebula. Other minor annoyance: -Channels have links to youtube videos instead of the nebula links in descriptions. Also, the whole debacle with Glenwood Caverns was really embarrassing, and really makes me question the goals of the platform along with the people running it.",
+      "cleaned_title": "app isn t great",
+      "cleaned_content": "appreciate what nebula trying do app still has huge problems even though s been years since release technical issues audio breaks randomly have force close reopen app picture picture breaks have force close app accumulates large amounts data over time some unknown reason have either delete reinstall use reset option iphone settings nebula other minor annoyance channels have links youtube videos instead nebula links descriptions also whole debacle glenwood caverns really embarrassing really makes question goals platform along people running"
+    },
+    {
+      "id": 12026838347,
+      "country": "us",
+      "rating": 2,
+      "title": "VERY bias - Left wing content",
+      "content": "I used to love Nebula. You could always find interesting content about random things. Over the last year the content has been completely overruled by left-wing creators that push left-wing messages. \n\nif political content is approved to be published here, it should be equal and fair - or left off. I come hear to learn about history, how things are built…etc. \n\nThe creators on here (or the editors that let them publish) have gone too far. Won’t be renewing.",
+      "cleaned_title": "very bias left wing content",
+      "cleaned_content": "used love nebula could always find interesting content about random things over last year content has been completely overruled left wing creators push left wing messages political content approved published here should equal fair left off come hear learn about history how things built etc creators here editors let them publish have gone too far won t renewing"
+    },
+    {
+      "id": 12015017065,
+      "country": "us",
+      "rating": 5,
+      "title": "Better",
+      "content": "Far better than YouTube, especially for educational content.",
+      "cleaned_title": "better",
+      "cleaned_content": "far better than youtube especially educational content"
+    },
+    {
+      "id": 11996068698,
+      "country": "us",
+      "rating": 4,
+      "title": "Add Video queue",
+      "content": "Very good app, but I video queue is needed.",
+      "cleaned_title": "add video queue",
+      "cleaned_content": "very good app video queue needed"
+    },
+    {
+      "id": 11988543049,
+      "country": "us",
+      "rating": 1,
+      "title": "B.S",
+      "content": "I hate this! This was gonna be a fun little social media for me to use but it needs a freaking subscription just to use! If you want to earn money then just make the subscription a premium feature and then maybe the app will be a little better, but I don’t know that because there is no way I am paying for a social media app because there are so much more free, and good social media apps out there.",
+      "cleaned_title": "b s",
+      "cleaned_content": "hate gonna fun little social media use needs freaking subscription just use want earn money then just make subscription premium feature then maybe app will little better don t know because there no way am paying social media app because there much more free good social media apps out there"
+    },
+    {
+      "id": 11954015819,
+      "country": "us",
+      "rating": 1,
+      "title": "it was supposed to be $36 annually, but I was only offered $60",
+      "content": "annoy",
+      "cleaned_title": "supposed 36 annually only offered 60",
+      "cleaned_content": "annoy"
+    },
+    {
+      "id": 11939667212,
+      "country": "us",
+      "rating": 5,
+      "title": "Excellent",
+      "content": "So great to watch a lot of my favorite creators work with out YouTube jank",
+      "cleaned_title": "excellent",
+      "cleaned_content": "great watch lot favorite creators work out youtube jank"
+    },
+    {
+      "id": 11902223482,
+      "country": "us",
+      "rating": 4,
+      "title": "Great but has one big flaw",
+      "content": "A lot of the reviews on here seem to be from a year or two ago and I wanted to give my two cents as someone who just got Nebula.\n\nAll in all I quite enjoy the app and am prime audience for the platform since I enjoyed a lot of the creators on the platform and am already finding new ones I like.\n\nAdditionally I find the lack of ads fantastic, I’ve had no problems getting the app or MiniPlayer to work and the search feature works as intended.  I like being able to “subscribe” to content creators the way one would on YouTube and the vast array of content is great.\n\nNow some problems I am having is the subtitles of videos are often wrong saying words the creators aren’t saying or even having a line of dialogue repeat even if the creator has moved on.\n\nAdditionally, even though Nebula is ad free— the ads creators place in their videos for when they get released on YouTube is still there.  Something that frankly is a silly thing to complain about but definitely impacts the experience.  I’m not paying for YouTube so I’m completely fine if a creator puts their ad for helix sleep in there.  I’m less fine with it in a paid subscription service and it robs the experience of a documentary/video essay streaming service making it feel like YouTube.\n\nAll in all, I love the idea and the lack of ads for my videos I like to watch is worth it but I wish there was more of a distinction between Nebula and YouTube because as it currently stands the platform feels like a mass patreon for YouTubers I like rather than anything of substantial merit.  Getting my videos ad free and early justify the price in my eyes but I can’t help but think about the fact that even on a paid platform I’m still having to fast forward through a patreon plug or a audible advertisement.",
+      "cleaned_title": "great has one big flaw",
+      "cleaned_content": "lot reviews here seem year two ago wanted give two cents someone who just got nebula all all quite enjoy app am prime audience platform since enjoyed lot creators platform am already finding new ones like additionally find lack ads fantastic ve had no problems getting app miniplayer work search feature works intended like being able subscribe content creators way one would youtube vast array content great now some problems am having subtitles videos often wrong saying words creators aren t saying even having line dialogue repeat even creator has moved additionally even though nebula ad free ads creators place videos when get released youtube still there something frankly silly thing complain about definitely impacts experience m not paying youtube m completely fine creator puts ad helix sleep there m less fine paid subscription service robs experience documentary video essay streaming service making feel like youtube all all love idea lack ads videos like watch worth wish there more distinction between nebula youtube because currently stands platform feels like mass patreon youtubers like rather than anything substantial merit getting videos ad free early justify price eyes can t help think about fact even paid platform m still having fast forward through patreon plug audible advertisement"
+    },
+    {
+      "id": 11890554009,
+      "country": "us",
+      "rating": 5,
+      "title": "A great video platform",
+      "content": "Support independent creators by subscribing to Nebula. So many quality creators you know, or knew from YouTube.  Come to this ad-free platform of extended content and content you won’t find on YouTube!",
+      "cleaned_title": "great video platform",
+      "cleaned_content": "support independent creators subscribing nebula many quality creators know knew youtube come ad free platform extended content content won t find youtube"
+    },
+    {
+      "id": 11807412376,
+      "country": "us",
+      "rating": 4,
+      "title": "Good service with a couple of nitpicks",
+      "content": "Neat service, appreciate the more direct support for the creators, mostly works pretty well.\nHas occasional issues when I move it to the background for a while, then when I reopen it the video refuses to start playing again until I close it and reopen.\n\nI would also appreciate a more clear way to refresh the latest updates or watch later lists.",
+      "cleaned_title": "good service couple nitpicks",
+      "cleaned_content": "neat service appreciate more direct support creators mostly works pretty well has occasional issues when move background while then when reopen video refuses start playing again until close reopen would also appreciate more clear way refresh latest updates watch later lists"
+    },
+    {
+      "id": 11802212187,
+      "country": "us",
+      "rating": 5,
+      "title": "No ads, all my favorite educational creators.",
+      "content": "I paid for the lifetime membership, and I’ve been finding many of my favorite educational content creators, which is a joy, knowing I can be free of the political ads or ads for games that are borderline p*** that plague YouTube when I want to learn things.",
+      "cleaned_title": "no ads all favorite educational creators",
+      "cleaned_content": "paid lifetime membership ve been finding many favorite educational content creators which joy knowing can free political ads ads games borderline p plague youtube when want learn things"
+    },
+    {
+      "id": 11794949684,
+      "country": "us",
+      "rating": 1,
+      "title": "Great creators, lovely videos. buggy app",
+      "content": "Love the creators and the videos. Hate how buggy the app is. If your video app hates scrubbing I don’t know what to tell ya.",
+      "cleaned_title": "great creators lovely videos buggy app",
+      "cleaned_content": "love creators videos hate how buggy app video app hates scrubbing don t know what tell ya"
+    },
+    {
+      "id": 11775490498,
+      "country": "us",
+      "rating": 5,
+      "title": "Review",
+      "content": "Lots of good content but I wish there was a better/longer recommended list",
+      "cleaned_title": "review",
+      "cleaned_content": "lots good content wish there better longer recommended list"
+    },
+    {
+      "id": 11761775277,
+      "country": "us",
+      "rating": 5,
+      "title": "Great service",
+      "content": "If you not watching Jet Lag what are you doing?",
+      "cleaned_title": "great service",
+      "cleaned_content": "not watching jet lag what doing"
+    },
+    {
+      "id": 11732312212,
+      "country": "us",
+      "rating": 1,
+      "title": "Yet another platform that tells you what to watch",
+      "content": "I love many of the creators. The app itself is well-written. The problem? The algorithm.\n\nIt’s bad enough that the Home tab is full of stuff they want you to watch, rather than anything you yourself have chosen. \n\nFine. I’ll tap the Library tab EVERY TIME I USE THE APP. But then it just shows one row of the latest episodes you want to see. Tap again to see a vertical list. So now two taps just to get to what you wanted. \n\nBut, oh, that’s not enough! No, now they shove Dracula’s Ex-Girlfriend in *your library* even though you never selected it. AND YOU CANNOT REMOVE IT OR HIDE IT. It is there forever, like the time Apple shoved that U2 album down everybody’s throat. Ugh. \n\n“But you’re used to this: Facebook and Instagram and Twitter/X and TikTok all do this!”, they say. Ah, true, but I PAY FOR NEBULA. I don’t pay for those. I am the customer if I pay for it. Aren’t I? I guess not. \n\nBut wait, there’s more. If you just accept the default Home tab, then it invariably shows you lots of war (“Modern Conflict”) and total Climate destruction (“Jet Lag The Game” and “The Getaway”). What could be more fun than killing people and flying and driving hundreds or thousands of miles —for a game. Completely tone deaf. \n\nI won’t be renewing.",
+      "cleaned_title": "yet another platform tells what watch",
+      "cleaned_content": "love many creators app itself well written problem algorithm s bad enough home tab full stuff want watch rather than anything yourself have chosen fine ll tap library tab every time use app then just shows one row latest episodes want see tap again see vertical list now two taps just get what wanted oh s not enough no now shove dracula s ex girlfriend library even though never selected cannot remove hide there forever like time apple shoved u2 album down everybody s throat ugh re used facebook instagram twitter x tiktok all do say ah true pay nebula don t pay those am customer pay aren t guess not wait there s more just accept default home tab then invariably shows lots war modern conflict total climate destruction jet lag game getaway what could more fun than killing people flying driving hundreds thousands miles game completely tone deaf won t renewing"
+    },
+    {
+      "id": 11723523283,
+      "country": "us",
+      "rating": 1,
+      "title": "Leftist justification app",
+      "content": "If you are looking for a leftist app that works like a perfect echo chamber then this is the app for you. A bunch of Johnny Harris wannabe’s will explain everyday issues with a twinge of snark and arrogance.",
+      "cleaned_title": "leftist justification app",
+      "cleaned_content": "looking leftist app works like perfect echo chamber then app bunch johnny harris wannabe s will explain everyday issues twinge snark arrogance"
+    },
+    {
+      "id": 11721954974,
+      "country": "us",
+      "rating": 5,
+      "title": "Growing bigger & better",
+      "content": "A great supplement to YouTube for viewers who follow top creators of informative content. I like that the interface has grown faster and added features such as download for offline viewing; plus, the library has grown steadily.",
+      "cleaned_title": "growing bigger better",
+      "cleaned_content": "great supplement youtube viewers who follow top creators informative content like interface has grown faster added features such download offline viewing plus library has grown steadily"
+    },
+    {
+      "id": 11714567967,
+      "country": "us",
+      "rating": 5,
+      "title": "Love nebula",
+      "content": "Great creators, love it.",
+      "cleaned_title": "love nebula",
+      "cleaned_content": "great creators love"
+    },
+    {
+      "id": 11710608753,
+      "country": "us",
+      "rating": 5,
+      "title": "Real cool",
+      "content": "Lots of good videos separate from all the YouTube slop",
+      "cleaned_title": "real cool",
+      "cleaned_content": "lots good videos separate all youtube slop"
+    },
+    {
+      "id": 11679606920,
+      "country": "us",
+      "rating": 1,
+      "title": "Please make it free I'm broke",
+      "content": "I am broke just make it free so I can have it for free🫡",
+      "cleaned_title": "please make free m broke",
+      "cleaned_content": "am broke just make free can have free"
+    },
+    {
+      "id": 11658314125,
+      "country": "us",
+      "rating": 3,
+      "title": "Great channels, lackluster interface",
+      "content": "Nebula has many of my favorite channels, and allows me to support these financially channels with minimal cost to myself. On the other hand, the UX is extremely lacking and the watch later playlist, which I use extensively, is nearly unusable compared to YouTube’s implementation. There is no way to sort the playlist, where youtube offers several options, particularly “sort by last added”. The final blow to the watch later is that autoplay doesn’t respect it. Finishing a video in watch later results in Nebula auto playing some (possible) related video, as opposed to the next in watch later. this requires the user to close the video on completion, remove it watch later, then select the next video in the (unsorted) list.",
+      "cleaned_title": "great channels lackluster interface",
+      "cleaned_content": "nebula has many favorite channels allows support these financially channels minimal cost myself other hand ux extremely lacking watch later playlist which use extensively nearly unusable compared youtube s implementation there no way sort playlist where youtube offers several options particularly sort last added final blow watch later autoplay doesn t respect finishing video watch later results nebula auto playing some possible related video opposed next watch later requires user close video completion remove watch later then select next video unsorted list"
+    },
+    {
+      "id": 11619090453,
+      "country": "us",
+      "rating": 5,
+      "title": "Good content",
+      "content": "Good content and smooth UI. Just now my video froze though, keep pushing on platform updates.",
+      "cleaned_title": "good content",
+      "cleaned_content": "good content smooth ui just now video froze though keep pushing platform updates"
+    },
+    {
+      "id": 11609261661,
+      "country": "us",
+      "rating": 1,
+      "title": "Disguises ads as notifications",
+      "content": "Forces you to receive push ads for series or channels that you’ve never watched. Does not respect your privacy or your time.",
+      "cleaned_title": "disguises ads notifications",
+      "cleaned_content": "forces receive push ads series channels ve never watched does not respect privacy time"
+    },
+    {
+      "id": 11608039057,
+      "country": "us",
+      "rating": 5,
+      "title": "Great content, app itself needs work",
+      "content": "The content on Nubula is great and well worth the subscription fee. The app, however, has some bugs. One prominent issue is particular videos failing to play. One video will stop in the middle and refuse to play, even after app restarts. Other videos will play just fine.\n\nAnother issue is constantly disappearing downloads. If you download a few videos for offline watching later, they will disappear one-by-one after a few hours. Why is it happening? No error messages to be found.",
+      "cleaned_title": "great content app itself needs work",
+      "cleaned_content": "content nubula great well worth subscription fee app however has some bugs one prominent issue particular videos failing play one video will stop middle refuse play even after app restarts other videos will play just fine another issue constantly disappearing downloads download few videos offline watching later will disappear one one after few hours why happening no error messages found"
+    },
+    {
+      "id": 11591289080,
+      "country": "us",
+      "rating": 5,
+      "title": "Da bes",
+      "content": "I love it.",
+      "cleaned_title": "da bes",
+      "cleaned_content": "love"
+    },
+    {
+      "id": 11580858972,
+      "country": "us",
+      "rating": 5,
+      "title": "Amazing content",
+      "content": "I love the creators on nebula. They have amazing content and paying one fee to get all their material add free is so worth it.",
+      "cleaned_title": "amazing content",
+      "cleaned_content": "love creators nebula have amazing content paying one fee get all material add free worth"
+    },
+    {
+      "id": 11571959724,
+      "country": "us",
+      "rating": 1,
+      "title": "Waste of $5, very limited topics",
+      "content": "There's no free trial option to see if you like it so I was reluctant to try but gave it a shot anyway to see how it was. Now I feel like I flushed a fiver down the toilet. There were some creators I already enjoy on the platform and I guess you get earlier access to their videos than you do on YouTube but honestly that's not a huge priority for me. As a test I searched a popular fitness topic that has has a lot of history and religion and philosophy behind it, yoga. There wasn't a single video. Nothing from a fitness instructor, nothing about the history of yoga in India and how it came to the Anglosphere, etc. all the results I got were for Baby Yoda or Baba Yaga. I didn't bother looking further, just cancelled my subscription and deleted the app. If it can't attract even one fitness instructor or non-Western historian to the service after 12 years I don't think it's worth the cost. At least YouTube, for all its flaws, has those. I could have probably tried a few more topics like music lessons or car repair but I suspect I'd get similar results \n\nIt does do picture-in-picture and background play which is ok I guess",
+      "cleaned_title": "waste 5 very limited topics",
+      "cleaned_content": "there s no free trial option see like reluctant try gave shot anyway see how now feel like flushed fiver down toilet there some creators already enjoy platform guess get earlier access videos than do youtube honestly s not huge priority test searched popular fitness topic has has lot history religion philosophy behind yoga there wasn t single video nothing fitness instructor nothing about history yoga india how came anglosphere etc all results got baby yoda baba yaga didn t bother looking further just cancelled subscription deleted app can t attract even one fitness instructor non western historian service after 12 years don t think s worth cost least youtube all its flaws has those could have probably tried few more topics like music lessons car repair suspect d get similar results does do picture picture background play which ok guess"
+    },
+    {
+      "id": 11531494471,
+      "country": "us",
+      "rating": 5,
+      "title": "A Reasonable Assessment",
+      "content": "Though the application is still young, the lack of a an algorithm provides a unique experience in the streaming world. Especially because it allows the viewer to seek knowledge beyond the confines of any previously established bubbles of thought or doctrine. \n\nIf the app improves (which there is always room for improvement) I will write a more extensive review. \n\n(As of 07/24/24)",
+      "cleaned_title": "reasonable assessment",
+      "cleaned_content": "though application still young lack algorithm provides unique experience streaming world especially because allows viewer seek knowledge beyond confines any previously established bubbles thought doctrine app improves which there always room improvement will write more extensive review 07 24 24"
+    },
+    {
+      "id": 11522476029,
+      "country": "us",
+      "rating": 3,
+      "title": "You need better user interface",
+      "content": "You need a subscriptions tab to make it easier to get to your followed creators.\n\nI shouldn’t have to type “Glidus” or “Alt Shift X” every time I go on the app",
+      "cleaned_title": "need better user interface",
+      "cleaned_content": "need subscriptions tab make easier get followed creators shouldn t have type glidus alt shift x every time go app"
+    },
+    {
+      "id": 11516643036,
+      "country": "us",
+      "rating": 1,
+      "title": "Bad first impression",
+      "content": "I downloaded this app an hour ago and it’s been practically unusable. I am using the app to cast the video. It took a minute just to connect to the cast, probably five minutes to load the video I’m currently trying to watch, switched inexplicably to another video while I was watching, and has now hit a point where the video is buffering every 30 seconds. It’s looking pretty likely that this will be a one and done subscription. How on earth does this have 4.7 stars?",
+      "cleaned_title": "bad first impression",
+      "cleaned_content": "downloaded app hour ago s been practically unusable am using app cast video took minute just connect cast probably five minutes load video m currently trying watch switched inexplicably another video while watching has now hit point where video buffering every 30 seconds s looking pretty likely will one done subscription how earth does have 4 7 stars"
+    },
+    {
+      "id": 11504958788,
+      "country": "us",
+      "rating": 5,
+      "title": "Excellent content, app is silk.",
+      "content": "Buttery smooth, high quality streaming, low resource usage.",
+      "cleaned_title": "excellent content app silk",
+      "cleaned_content": "buttery smooth high quality streaming low resource usage"
+    },
+    {
+      "id": 11472917602,
+      "country": "us",
+      "rating": 3,
+      "title": "Great Content, Difficult Platform",
+      "content": "I love the concept of Nebula as a service, I enjoy the output of most of the creators and think the exclusive content on offer is very worthwhile. I want to love Nebula as a platform that empowers its creators and can give the audience more, but the issues I’ve run into with the app have made it difficult to consistently enjoy. The primary source of my issues has been with the podcast feature of the app, as I will often be listening to a podcast before it stops for a couple of minutes for seemingly no reason. Even me closing and reopening the app won’t get the podcast going again which ends up just causing me to use another app for podcasts while I drive or work. Sometimes I’ll download podcast episodes since I do a lot of traveling, only for me to open the app before my flight to find out all of my downloads have disappeared (despite me making sure they were downloaded the night before). The inconsistency with the podcast functions has been frustrating to say the least, as it has been easier to just listen to the content elsewhere than continue to engage with an app I desperately want to enjoy using.",
+      "cleaned_title": "great content difficult platform",
+      "cleaned_content": "love concept nebula service enjoy output most creators think exclusive content offer very worthwhile want love nebula platform empowers its creators can give audience more issues ve run into app have made difficult consistently enjoy primary source issues has been podcast feature app will often listening podcast before stops couple minutes seemingly no reason even closing reopening app won t get podcast going again which ends up just causing use another app podcasts while drive work sometimes ll download podcast episodes since do lot traveling only open app before flight find out all downloads have disappeared despite making sure downloaded night before inconsistency podcast functions has been frustrating say least has been easier just listen content elsewhere than continue engage app desperately want enjoy using"
+    },
+    {
+      "id": 11456290545,
+      "country": "us",
+      "rating": 2,
+      "title": "Like My Favorite Creators but In Video Ads Stink and App Needs Work",
+      "content": "Good content, but the whole reason I signed up was to avoid ads, yet more and more creators are including in video advertisements.\n\nAlso the app needs work to make it smoother. Biggest examples would be queueing videos and playlists.",
+      "cleaned_title": "like favorite creators video ads stink app needs work",
+      "cleaned_content": "good content whole reason signed up avoid ads yet more more creators including video advertisements also app needs work make smoother biggest examples would queueing videos playlists"
+    },
+    {
+      "id": 11445078736,
+      "country": "us",
+      "rating": 5,
+      "title": "Excellent media platform",
+      "content": "Curated educational and cultural content. Your favorite creators in one place. Beats YouTube every day.",
+      "cleaned_title": "excellent media platform",
+      "cleaned_content": "curated educational cultural content favorite creators one place beats youtube every day"
+    },
+    {
+      "id": 11434596861,
+      "country": "us",
+      "rating": 5,
+      "title": "Amazing way to support my favorite creators!",
+      "content": "Nebula is the only streaming platform I pay for, and I love it! The creators on here are excellently curated, and I can click on pretty much any video and watch it all the way through. I also love how this platform also focuses on having queer, PoC, and other diverse voices, allowing them to create content that wouldn't be possible on something like YouTube. And there are so many creators I already watch on here, like Tale Foundry, Jessie Gender, Big Joel, Bright Sun Films, Kat Blaque, Hbomberguy, and surprisingly enough, Todd in the Shadows? \n\nIf you see a creator you follow on here and want to support them, I 100% urge you to subscribe. The rest of the content, even from the people you don't know, is sure to be just as good.",
+      "cleaned_title": "amazing way support favorite creators",
+      "cleaned_content": "nebula only streaming platform pay love creators here excellently curated can click pretty much any video watch all way through also love how platform also focuses having queer poc other diverse voices allowing them create content wouldn t possible something like youtube there many creators already watch here like tale foundry jessie gender big joel bright sun films kat blaque hbomberguy surprisingly enough todd shadows see creator follow here want support them 100 urge subscribe rest content even people don t know sure just good"
+    },
+    {
+      "id": 11409564738,
+      "country": "us",
+      "rating": 2,
+      "title": "Horrible app",
+      "content": "With the focus being on selling more subscription and making Nebula available on more platforms, this app is completely neglected and is a better YouTube Premium advocate than anyone. \n\nFirst of all, you can download videos for offline viewing, which is great, right? Well, guess what? The app often loses the downloaded content for no reason at all and you can literally see the downloaded videos just suddenly disappear right before your eyes when you need them the most. \n\nSecond, the TV app is also terrible. After you have scrolled down on a creator's video feed, what do you expect when you hit the back button? It should be the previous page. But not this app. It scrolls back up instead as \"back\" means undo. \n\nFinally, the UI/UX is simply messy and very unfriendly. There's no way to hide videos from a channel from being recommended. There's no good way to explore creators or videos similar to what you like. The server is extremely slow and it often hangs and doesn't load quickly (it's not the connection). \n\nAnyway, this app makes me wanna use YouTube Premium more than anything else.",
+      "cleaned_title": "horrible app",
+      "cleaned_content": "focus being selling more subscription making nebula available more platforms app completely neglected better youtube premium advocate than anyone first all can download videos offline viewing which great right well guess what app often loses downloaded content no reason all can literally see downloaded videos just suddenly disappear right before eyes when need them most second tv app also terrible after have scrolled down creator s video feed what do expect when hit back button should previous page not app scrolls back up instead back means undo finally ui ux simply messy very unfriendly there s no way hide videos channel being recommended there s no good way explore creators videos similar what like server extremely slow often hangs doesn t load quickly s not connection anyway app makes wanna use youtube premium more than anything else"
+    },
+    {
+      "id": 11407949326,
+      "country": "us",
+      "rating": 5,
+      "title": "I support my creators",
+      "content": "I have watched most of the creators in this platform for years before Nebula. Allowing them to have some more freedom and produce what they want outside of YouTube’s circle is a cause I support. Keep up the great work over there",
+      "cleaned_title": "support creators",
+      "cleaned_content": "have watched most creators platform years before nebula allowing them have some more freedom produce what want outside youtube s circle cause support keep up great work over there"
+    },
+    {
+      "id": 11400565870,
+      "country": "us",
+      "rating": 5,
+      "title": "High quality content",
+      "content": "Great high quality videos from some of my favorite YouTubers",
+      "cleaned_title": "high quality content",
+      "cleaned_content": "great high quality videos some favorite youtubers"
+    },
+    {
+      "id": 11391118387,
+      "country": "us",
+      "rating": 1,
+      "title": "DO NOT WASTE YOUR MONEY",
+      "content": "Videos won’t play. I’m extremely disappointed in Nebula.",
+      "cleaned_title": "do not waste money",
+      "cleaned_content": "videos won t play m extremely disappointed nebula"
+    },
+    {
+      "id": 11390061414,
+      "country": "us",
+      "rating": 5,
+      "title": "I’m glad for this!",
+      "content": "So far, not disappointed. I love that I am able to listen to new series and a diverse collection of my old YouTube follow list without the need of adds and sponsorship plugs (not that I blame any creator for that) :). Glad to pay the money!",
+      "cleaned_title": "m glad",
+      "cleaned_content": "far not disappointed love am able listen new series diverse collection old youtube follow list without need adds sponsorship plugs not blame any creator glad pay money"
+    },
+    {
+      "id": 11389107289,
+      "country": "us",
+      "rating": 1,
+      "title": "If you ask for a rating you get one star.",
+      "content": "Focus on the product and maybe you’ll get a rating better.",
+      "cleaned_title": "ask rating get one star",
+      "cleaned_content": "focus product maybe ll get rating better"
+    },
+    {
+      "id": 11371117805,
+      "country": "us",
+      "rating": 1,
+      "title": "Terrible",
+      "content": "I tried to make an account and first my password was not good then when I try entering a new one I just freeze and won’t let me go any further",
+      "cleaned_title": "terrible",
+      "cleaned_content": "tried make account first password not good then when try entering new one just freeze won t let go any further"
+    },
+    {
+      "id": 11362154453,
+      "country": "us",
+      "rating": 2,
+      "title": "Can’t control video quality",
+      "content": "The app doesn’t allow you to configure the video quality",
+      "cleaned_title": "can t control video quality",
+      "cleaned_content": "app doesn t allow configure video quality"
+    },
+    {
+      "id": 11357346253,
+      "country": "us",
+      "rating": 2,
+      "title": "Mostly just podcasts that use lots of data",
+      "content": "With the exception of a couple of great creators (like Grady Hillhouse) who really use the video medium to make their explanations clearer, the vast majority of nebula video is either irrelevant stock images, or just a camera pointed at a talking person.",
+      "cleaned_title": "mostly just podcasts use lots data",
+      "cleaned_content": "exception couple great creators like grady hillhouse who really use video medium make explanations clearer vast majority nebula video either irrelevant stock images just camera pointed talking person"
+    },
+    {
+      "id": 11356893805,
+      "country": "us",
+      "rating": 3,
+      "title": "Bittersweet",
+      "content": "Fantastic content. The OS needs work, content doesn’t load well, OS is clunky, podcasts can’t play while app is closed.",
+      "cleaned_title": "bittersweet",
+      "cleaned_content": "fantastic content os needs work content doesn t load well os clunky podcasts can t play while app closed"
+    },
+    {
+      "id": 11331315760,
+      "country": "us",
+      "rating": 1,
+      "title": "Love the Content But…",
+      "content": "The App always has issues. I was watched a video and wanted to go back a bit on the Shuttle video and it’s not possible. Tried quoting the app and still prevents me from scrubbing back a min or so. Frustrating basic features just don’t work consistently. I keep paying to support the content but honestly use YouTube which is I guess the point then my money supports content and costs are down as streaming here is bad. I just wish the Nebula exclusives I could watch and not be frustrated.",
+      "cleaned_title": "love content",
+      "cleaned_content": "app always has issues watched video wanted go back bit shuttle video s not possible tried quoting app still prevents scrubbing back min frustrating basic features just don t work consistently keep paying support content honestly use youtube which guess point then money supports content costs down streaming here bad just wish nebula exclusives could watch not frustrated"
+    },
+    {
+      "id": 11326877747,
+      "country": "us",
+      "rating": 5,
+      "title": "Way better than Youtube and other streaming services!",
+      "content": "This app works fairly well. It is significantly cheaper than most other streaming platforms, and includes enough content to keep people entertained. No ads, captioning on all videos, and the ability to download any video, among other features, makes this well worth it.",
+      "cleaned_title": "way better than youtube other streaming services",
+      "cleaned_content": "app works fairly well significantly cheaper than most other streaming platforms includes enough content keep people entertained no ads captioning all videos ability download any video among other features makes well worth"
+    },
+    {
+      "id": 11300262934,
+      "country": "us",
+      "rating": 4,
+      "title": "Good but lacks some useful features",
+      "content": "I like the experience on Nebula but the app could use some extra features. Primarily a playlist function would be great and perhaps a more relevant-to-me front page or easier to use way to mark videos I've seen elsewhere as watched. I’m glad nebula allows mini-player on iPad and iPhone. Overall a great way to watch videos.",
+      "cleaned_title": "good lacks some useful features",
+      "cleaned_content": "like experience nebula app could use some extra features primarily playlist function would great perhaps more relevant front page easier use way mark videos ve seen elsewhere watched m glad nebula allows mini player ipad iphone overall great way watch videos"
+    },
+    {
+      "id": 11296608155,
+      "country": "us",
+      "rating": 5,
+      "title": "Jet Lag Best",
+      "content": "Jet Lag brought me in, but tons of other cool stuff👍",
+      "cleaned_title": "jet lag best",
+      "cleaned_content": "jet lag brought tons other cool stuff"
+    },
+    {
+      "id": 11292542387,
+      "country": "us",
+      "rating": 5,
+      "title": "The app of my dreams",
+      "content": "This is what I hoped YouTube would be. Engrossing content without the censorship or ads or other bull.  In other words: my favorite content creators unemped, able to show their full artistic glory.  I love it.",
+      "cleaned_title": "app dreams",
+      "cleaned_content": "what hoped youtube would engrossing content without censorship ads other bull other words favorite content creators unemped able show full artistic glory love"
+    },
+    {
+      "id": 11288479997,
+      "country": "us",
+      "rating": 3,
+      "title": "Cool concept",
+      "content": "Didn’t actually get to use it, cause i met the pay wall. honestly i don’t know what i was expecting. i’m sure it’s a good app though",
+      "cleaned_title": "cool concept",
+      "cleaned_content": "didn t actually get use cause met pay wall honestly don t know what expecting m sure s good app though"
+    },
+    {
+      "id": 11264328629,
+      "country": "us",
+      "rating": 5,
+      "title": "Well streamlined, excellent app",
+      "content": "Simple, easy to use, downloadable content for when you’re out of signal range, great content creators, no ads.\n\nLove it.",
+      "cleaned_title": "well streamlined excellent app",
+      "cleaned_content": "simple easy use downloadable content when re out signal range great content creators no ads love"
+    },
+    {
+      "id": 11252246817,
+      "country": "us",
+      "rating": 1,
+      "title": "So many missing features for such a price.",
+      "content": "1- can’t change video quality manually on the ios app\n2-can’t even rewind the video from a certain point which is ridiculous.\n3-downloaded videos are terrible in terms of sound and quality…\nJust why?",
+      "cleaned_title": "many missing features such price",
+      "cleaned_content": "1 can t change video quality manually ios app 2 can t even rewind video certain point which ridiculous 3 downloaded videos terrible terms sound quality just why"
+    },
+    {
+      "id": 11251416543,
+      "country": "us",
+      "rating": 5,
+      "title": "GREAT APP 10/10 - WATCH ‘JET LAG THE GAME’!!!!",
+      "content": "Wonderful app, jetlag/crimespree are worth the price alone. Been subscribed to nebula off and on for several years, ever since the early Wendy docs (I vaguely remember watching St Helena and Ketchikan at different points early on if that helps). Finally binged jetlag last month and idk why I hadn’t sooner, truly amazing they’ve made such a high quality travel program despite being filmed by a few youtube zoomers with iphone gimbals and whatever gear they happen to have stuffed in their backpacks. Also love NEO, RLL’s “modern conflicts”, Maggie Mae Fish’s David Lynch podcast and too many more to name.",
+      "cleaned_title": "great app 10 10 watch jet lag game",
+      "cleaned_content": "wonderful app jetlag crimespree worth price alone been subscribed nebula off several years ever since early wendy docs vaguely remember watching st helena ketchikan different points early helps finally binged jetlag last month idk why hadn t sooner truly amazing ve made such high quality travel program despite being filmed few youtube zoomers iphone gimbals whatever gear happen have stuffed backpacks also love neo rll s modern conflicts maggie mae fish s david lynch podcast too many more name"
+    },
+    {
+      "id": 11200637068,
+      "country": "us",
+      "rating": 5,
+      "title": "Love supporting creators but would love comments for creator interaction",
+      "content": "Overall steaming quality is excellent. I feel if comments were enabled the quality of discourse and community interaction would be high on nebula",
+      "cleaned_title": "love supporting creators would love comments creator interaction",
+      "cleaned_content": "overall steaming quality excellent feel comments enabled quality discourse community interaction would high nebula"
+    },
+    {
+      "id": 11190509452,
+      "country": "us",
+      "rating": 1,
+      "title": "I hate your face",
+      "content": "Your content creators faces will be your downfall.",
+      "cleaned_title": "hate face",
+      "cleaned_content": "content creators faces will downfall"
+    },
+    {
+      "id": 11182469677,
+      "country": "us",
+      "rating": 1,
+      "title": "Fraudulent Charges",
+      "content": "I downloaded the app to see what it was and it automatically signed me up for a subscription and charged me for months without my knowledge. Looked it up, apparently this is a common problem people have with the app.",
+      "cleaned_title": "fraudulent charges",
+      "cleaned_content": "downloaded app see what automatically signed up subscription charged months without knowledge looked up apparently common problem people have app"
+    },
+    {
+      "id": 11176829462,
+      "country": "us",
+      "rating": 4,
+      "title": "much better than youtube! one small issue. . .",
+      "content": "I don’t generally leave reviews, but I dearly love this app and I so want it to thrive. Nebula has a great selection and I love that you can use PiP and play videos with your screen off. I just have one small suggestion for usability that might improve things slightly. Whenever you try to scrub to the middle of videos or any specific timestamp that isn’t within the first ten seconds of the time you are attempting to play from, the video freezes. You can’t play it the video without restarting the app completely and retrying a few times. \n\nAgain, I really love this app and I believe it’s well worth the subscription, but this issue is a bit of a hassle especially for people who watch videos at staggered intervals or have a specific section of a video they want to revisit.",
+      "cleaned_title": "much better than youtube one small issue",
+      "cleaned_content": "don t generally leave reviews dearly love app want thrive nebula has great selection love can use pip play videos screen off just have one small suggestion usability might improve things slightly whenever try scrub middle videos any specific timestamp isn t within first ten seconds time attempting play video freezes can t play video without restarting app completely retrying few times again really love app believe s well worth subscription issue bit hassle especially people who watch videos staggered intervals have specific section video want revisit"
+    }
+  ]
+}
