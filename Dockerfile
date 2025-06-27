@@ -23,4 +23,4 @@ COPY . .
 EXPOSE 8080
 
 # Start the FastAPI app using Uvicorn
-CMD ["uvicorn", "api_main:app", "--host", "0.0.0.0", "--port", "9090"]
+CMD ["uvicorn", "api_main:app", "--host", "0.0.0.0", "--port", "8080"]
