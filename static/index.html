@@ -17,7 +17,8 @@
   <h1 class="text-center">App Review Analysis</h1>
 
   <h2>1. Search App</h2>
-  <input id="appName" placeholder="App name" />
+  App name: <input id="appName" placeholder="App name" />
+  Country: <input id="country" value="us" style="width:60px" />
   <button onclick="searchApp()">Search</button>
   <pre id="searchResults"></pre>
 
@@ -40,7 +41,8 @@
   <button onclick="openSunburst()">Open Sunburst</button>
   <button onclick="downloadVis()">Download Chart HTML</button>
   <button onclick="downloadSunburst()">Download Sunburst HTML</button>
-  <button onclick="downloadMetrics()">Download Base Metrics</button>
+  <button onclick="downloadMetrics()">Show Base Metrics</button>
+  <button onclick="downloadMetricsFile()">Download Metrics JSON</button>
   <pre id="visOut"></pre>
 
   <h2>5. NLP & Insights </h2>
@@ -146,6 +148,24 @@ async function downloadMetrics(){
   if(!res.ok){ alert(await res.text()); return; }
   const data = await res.json();
   openPretty(data, 'Metrics Summary');
+}
+
+async function downloadMetricsFile(){
+  const id = $("visId").value.trim();
+  if(!id) return alert('app id');
+  const res = await fetch(`/metrics_summary/${id}`);
+  if(!res.ok){ alert(await res.text()); return; }
+  const data = await res.json();
+  // Create a blob and trigger download
+  const blob = new Blob([JSON.stringify(data, null, 2)], {type: "application/json"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `metrics_summary_${id}.json`;
+  document.body.appendChild(a);
+  a.click();
+  URL.revokeObjectURL(url);
+  a.remove();
 }
 
 async function getInsights(){
