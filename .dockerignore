@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Git & VCS
+.git
+.gitignore
+
+# Virtual environments
+*.env
+venv/
+.venv/
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# Test / debug artifacts
+coverage*
+
+# Data and large model directories
+/data/*
+!data/README.md
+
+# Python wheels and caches
+*.whl
+pip-wheel-metadata/
+
+# Node / front-end cache
+node_modules/ 
