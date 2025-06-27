@@ -118,15 +118,34 @@ function downloadCleaned(){
 function openVis(){
   const id = $("visId").value.trim();
   if(!id) return alert('app id');
-  window.open(`/static/chart.html?app_id=${id}`,'_blank');
+  const out = $("visOut");
+  out.textContent = "Wait, generating graph…";
+  Promise.resolve()
+    .then(()=>fetch(`/visualization/${id}`, {method:'POST'}))
+    .then(res=>{
+       if(!res.ok) return res.text().then(t=>{throw new Error(t)});
+    })
+    .then(()=>{
+       out.textContent = "";
+       window.open(`/static/chart.html?app_id=${id}`,'_blank');
+    })
+    .catch(err=>{ out.textContent = err.message || 'Error'; });
 }
 
 function openSunburst(){
   const id = $("visId").value.trim();
   if(!id) return alert('app id');
-  fetch(`/sunburst/${id}`, {method:'POST'}).finally(()=>{
-     window.open(`/sunburst/${id}`,'_blank');
-  });
+  const out = $("visOut");
+  out.textContent = "Wait, generating sunburst…";
+  fetch(`/sunburst/${id}`, {method:'POST'})
+    .then(res=>{
+       if(!res.ok) return res.text().then(t=>{throw new Error(t)});
+    })
+    .then(()=>{
+       out.textContent = "";
+       window.open(`/sunburst/${id}`,'_blank');
+    })
+    .catch(err=>{ out.textContent = err.message || 'Error'; });
 }
 
 function downloadVis(){
